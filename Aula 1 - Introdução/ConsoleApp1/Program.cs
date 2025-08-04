@@ -27,7 +27,7 @@ class Carro{
     //Métodos da Classe
 
     public void Ligar(){
-        Console.WriteLine($"{/*this.*/marca} {modelo} de {anoDeFabricacao} está ligado!"); //this. não precisa no c#
+        Console.WriteLine($"{marca} {modelo} de {anoDeFabricacao} está ligado!");
     }
 
     //Getters / Setters
@@ -64,6 +64,7 @@ class Program{
             carro_1.SetModelo("Corolla");
             carro_1.SetMarca("Toyota");
             carro_1.SetAnoDeFabricacao(2016);
+
             carro_1.Ligar();
     }
 }

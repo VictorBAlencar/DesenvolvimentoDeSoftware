@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victor.borges.070\\.nuget\\packages\\": {}
+    "C:\\Users\\vborg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.borges.070\\Documents\\Aula 1 - Introdução\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\GIthub\\DesenvolvimentoDeSoftware\\Aula 1 - Introdução\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\victor.borges.070\\Documents\\Aula 1 - Introdução\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\victor.borges.070\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.borges.070\\Documents\\Aula 1 - Introdução\\ConsoleApp1\\obj\\",
+      "projectPath": "D:\\GIthub\\DesenvolvimentoDeSoftware\\Aula 1 - Introdução\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\vborg\\.nuget\\packages\\",
+      "outputPath": "D:\\GIthub\\DesenvolvimentoDeSoftware\\Aula 1 - Introdução\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\victor.borges.070\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vborg\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
